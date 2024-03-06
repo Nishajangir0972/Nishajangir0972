@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nisha jangir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishajangir0972" alt="nishajangir0972" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack web-development**
 
-- 👯 I’m looking to collaborate on **front-end developer**
+- 👯 I’m looking to collaborate on **full stack developer**
 
-- 💬 Ask me about **HTML , CSS , Bootstrap , React ,Javascript**
+- 💬 Ask me about **HTML , CSS , Bootstrap , React ,Javascript , Nodejs , mongodb **
 
 - 📫 How to reach me **nishajangir9302@gmail.com**
 
